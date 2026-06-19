@@ -29,3 +29,6 @@ content, not the content. If the box matters to your living room, we cover it.
 
 Adjacent reading: technical IPTV-service testing at https://streamreviewhq.com,
 provider-side install walkthroughs at https://iptvtheone.com.
+
+---
+*Last verified: June 19, 2026*
